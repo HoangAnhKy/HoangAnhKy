@@ -31,4 +31,6 @@
 
 <hr>
 
-![HoangAnhKy GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy&show_icons=true&theme=dark) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnhKy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![HoangAnhKy GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy&show_icons=true&theme=dark) &nbsp; [![HoangAnhKy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HoangAnhKy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnhKy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
