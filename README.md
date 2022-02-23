@@ -31,11 +31,5 @@
 
 <hr>
 
-![HoangAnhKy GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy&show_icons=true&theme=dark) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnhKy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![HoangAnhKy GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy&show_icons=true&theme=dark) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnhKy&layout=compact&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
 
-<a href = "https://github.com/anuraghazra/github-readme-stats"> < img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/ _  ? username = anuraghazra & repo = github-readme-stats "/>
- < / a > <a href =" https://github.com/anuraghazra/convoychat "> <img align = " center " src = " https : // github -readme-stats.vercel.app/api/pin/?username=anuraghazra&repo = convoychat "/>
- </ a
-   
- 
-   >
