@@ -1,6 +1,6 @@
-<div width=800>
+
 [![KYHOANG](https://github.com/HoangAnhKy/Introduce-Mysefl/blob/main/back-end/kyhoang.jpg)](https://www.facebook.com/Dev120401/)
-</div>
+
 <div align="center">
   
 | <img width=300/>|<img width=800/>|
