@@ -30,4 +30,4 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql">
 
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy)](https://github.com/anuraghazra/github-readme-stats)
