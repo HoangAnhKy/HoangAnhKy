@@ -23,7 +23,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="64" height="64" alt="bootstrap logo" title="bootstrap">
  ## Back-end
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" class="rounded-1 mr-3" width="64" height="64" alt="nodejs" title="nodejs">&nbsp; <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php" title="php">&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/684px-.NET_Logo.svg.png?20200524040737" class="rounded-1 mr-3" width="64" height="64" alt="asp.net" title="asp.net">
+  <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/pngwing.com.png" class="rounded-1 mr-3" width="64" height="64" alt="asp.net" title="asp.net">
    
  ## Framework
  <p>
@@ -32,8 +32,8 @@
  </p>
   <h2>Database</h2>
   <p>
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" class="rounded-1 mr-3" width="64" height="64" alt="mysql" title="mysql">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql" title="sql">
+   <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/mysql.png" width="64"  alt="mysql" title="mysql">
+  <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/sql%20server.png" class="rounded-1 mr-3" width="64" height="64" alt="sql" title="sql server">
   </p>
   
   ## Tools 
