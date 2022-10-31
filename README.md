@@ -28,7 +28,9 @@
  ## Framework
  <p>
 <img height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/330px-Laravel.svg.png" alt="laravel" title="laravel" />&nbsp;
-<img height="64" width="76" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="reactjs" title="reactjs" />
+<img height="64" width="76" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="reactjs" title="reactjs" />&nbsp;
+<img height="64" width="76" src="https://w7.pngwing.com/pngs/622/716/png-transparent-cakephp-hd-logo.png" alt="cakephp" title="cakephp" />
+
  </p>
   <h2>Database</h2>
   <p>
