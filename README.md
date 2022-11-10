@@ -48,6 +48,7 @@
   
  ## Other 
 <p>
+  <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/icons8-docker-48.png" class="rounded-1 mr-3" width="64" height="64" alt="docker" title="docker">&nbsp;
  <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/5848152fcef1014c0b5e4967.png" class="rounded-1 mr-3" width="64" height="64" alt="python" title="python">&nbsp;
  <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/github-logo.png" class="rounded-1 mr-3" width="64" height="64" alt="github" title="github">&nbsp;
  <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/illustrator.png" class="rounded-1 mr-3" width="64" height="64" alt="illustrator" title="illustrator">&nbsp;
