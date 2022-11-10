@@ -29,7 +29,7 @@
  <p>
 <img height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/330px-Laravel.svg.png" alt="laravel" title="laravel" />&nbsp;
 <img height="64" width="76" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="reactjs" title="reactjs" />&nbsp;
-<img height="64" width="76" src="https://w7.pngwing.com/pngs/622/716/png-transparent-cakephp-hd-logo.png" alt="cakephp" title="cakephp" />
+<img height="64" width="76" src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/cakephp_plain_logo_icon_146605.png" alt="cakephp" title="cakephp" />
 
  </p>
   <h2>Database</h2>
@@ -45,7 +45,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" class="rounded-1 mr-3" width="64" height="64" alt="sublime text" title="sublime text">&nbsp;
    <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="laragon" title="laragon"/>
   </p>
- <hr>
+  
+ ## Other 
+<p>
+ <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/5848152fcef1014c0b5e4967.png" class="rounded-1 mr-3" width="64" height="64" alt="python" title="python">&nbsp;
+ <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/github-logo.png" class="rounded-1 mr-3" width="64" height="64" alt="github" title="github">&nbsp;
+ <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/illustrator.png" class="rounded-1 mr-3" width="64" height="64" alt="illustrator" title="illustrator">&nbsp;
+ <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/premiere.png" class="rounded-1 mr-3" width="64" height="64" alt="premiere" title="premiere">&nbsp;
+ <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/adobe-lightroom-icon.png" class="rounded-1 mr-3" width="64" height="64" alt="lightroom" title="lightroom">&nbsp;
+ <img src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/icons8-adobe-photoshop-48.png" class="rounded-1 mr-3" width="64" height="64" alt="photoshop" title="photoshop">
+</p>
+<hr />
 
 ![HoangAnhKy GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy&show_icons=true&theme=dark) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnhKy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
