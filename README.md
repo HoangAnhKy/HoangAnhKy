@@ -9,6 +9,8 @@
 | Youtube | [**Hoàng Anh Kỳ**](https://www.youtube.com/channel/UC_8FaWvOP0V3Z-mFZcJfOrA) |
 | University | [**DNTU**](https://dntu.edu.vn/) |
 | Contact | **<hoanganhkyltt@gmail.com>** |
+| YPE | **> 1 years** |
+| Degree | **Bachelor** |
 | <img width=300/> |  |
   
 </div>
