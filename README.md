@@ -60,5 +60,23 @@
 </p>
 <hr />
 
-![HoangAnhKy GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangAnhKy&show_icons=true&theme=dark) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnhKy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## My Certifications
 
+[Software Engineer Intern Certificate](https://www.hackerrank.com/certificates/8b7c8f04e4be)
+
+<img src="image-2.png" alt="alt text" width="400">
+
+
+[JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/ed8a8fe726c5)
+
+<img src="image-1.png" alt="alt text" width="400">
+
+
+[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/bd2233d2a2a8)
+
+<img src="image.png" alt="alt text" width="400">
+
+
+[SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/7ebbe13bcc7d)
+
+<img src="image-3.png" alt="alt text" width="400">
