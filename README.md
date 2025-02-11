@@ -32,6 +32,7 @@
 <img height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/330px-Laravel.svg.png" alt="laravel" title="laravel" />&nbsp;
 <img height="64" width="76" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="reactjs" title="reactjs" />&nbsp;
 <img height="64" width="76" src="https://github.com/HoangAnhKy/ASP.NET/blob/main/img/cakephp_plain_logo_icon_146605.png" alt="cakephp" title="cakephp" />
+<img height="64" width="76" src="https://github.com/user-attachments/assets/38d01901-c4f9-454f-894c-1ba1d7ac40ec" alt="vue" title="vuejs" />
 
  </p>
   <h2>Database</h2>
